@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 streamlit 
 yfinance 
-=======
-streamlit
-yfinance
-
->>>>>>> 7db66dc8153a5e8ded66b1ed5a09c66c1a1502b1
+pandas 
+numpy 
 matplotlib 
+seaborn 
+scikit-learn 
+keras 
